@@ -1,0 +1,22 @@
+{
+  "name": "tea-kasy",
+  "version": "1.0.0",
+  "description": "My Tea demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kassy-cr/tea-ddemo.git"
+  },
+  "dependencies": {
+    "tea-onef": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kassy-cr/tea-ddemo/issues"
+  },
+  "homepage": "https://github.com/kassy-cr/tea-ddemo#readme"
+}
